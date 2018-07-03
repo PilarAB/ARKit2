@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{B8554B02-E55B-B211-BF75-EE456A3787DD}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/DarkSky.shader">
+    <Files>
+      <File FileName="Assets/Shaders/DarkSky.shader" Line="59" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
