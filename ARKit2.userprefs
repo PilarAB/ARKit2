@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{B8554B02-E55B-B211-BF75-EE456A3787DD}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/DarkSky.shader">
     <Files>
-      <File FileName="Assets/Shaders/DarkSky.shader" Line="59" Column="2" />
+      <File FileName="Assets/Shaders/DarkSky.shader" Line="18" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
